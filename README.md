@@ -1,7 +1,5 @@
 # Bio-Inspired Autonomous Building Health and Energy Management System Using AI-ML Systems
 
-# Bio-Inspired Autonomous Building Health and Energy Management System Using AI-ML Systems
-
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
