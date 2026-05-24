@@ -1,12 +1,9 @@
 # Bio-Inspired Autonomous Building Health and Energy Management System Using AI-ML Systems
-<div align="center">
 
 [![Forks](https://img.shields.io/github/forks/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/network/members)
 [![Stars](https://img.shields.io/github/stars/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/stargazers)
 [![Issues](https://img.shields.io/github/issues/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/issues)
 [![License](https://img.shields.io/github/license/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/blob/main/LICENSE)
-
-<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -15,13 +12,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br>
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=for-the-badge&logo=keras&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT_&_Smart_Sensors-007ACC?style=for-the-badge)
-
-</div>
 
 ## 📌 Overview
 This repository contains a bio-inspired autonomous building health and energy management framework. The system integrates artificial immune system principles with machine learning and deep learning techniques to perform adaptive anomaly detection and intelligent monitoring of smart infrastructure. By continuously analyzing environmental, operational, and structural parameters, the system identifies complex fault conditions in real-time.
