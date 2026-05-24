@@ -1,20 +1,21 @@
 # Bio-Inspired Autonomous Building Health and Energy Management System Using AI-ML Systems
 
-[![Forks](https://img.shields.io/github/forks/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/network/members)
-[![Stars](https://img.shields.io/github/stars/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/stargazers)
-[![Issues](https://img.shields.io/github/issues/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/issues)
-[![License](https://img.shields.io/github/license/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=for-the-badge)](https://github.com/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems/blob/main/LICENSE)
+# Bio-Inspired Autonomous Building Health and Energy Management System Using AI-ML Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Library](https://img.shields.io/badge/Library-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Web App](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=for-the-badge&logo=keras&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_&_Smart_Sensors-007ACC?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-IoT%20%26%20Smart%20Buildings-007ACC)
+![Models](https://img.shields.io/badge/Models-Isolation%20Forest%20%7C%20Autoencoder-green)
+![Metrics](https://img.shields.io/badge/Metrics-Accuracy%20%7C%20ROC--AUC-ff69b4)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![Repo Size](https://img.shields.io/github/repo-size/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems)
+![Last Commit](https://img.shields.io/github/last-commit/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems)
+![Forks](https://img.shields.io/github/forks/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=social)
+![Stars](https://img.shields.io/github/stars/G-Danush/Bio-Inspired-Autonomous-Building-Health-and-Energy-Management-System-Using-AI-ML-Systems?style=social)
 
 ## 📌 Overview
 This repository contains a bio-inspired autonomous building health and energy management framework. The system integrates artificial immune system principles with machine learning and deep learning techniques to perform adaptive anomaly detection and intelligent monitoring of smart infrastructure. By continuously analyzing environmental, operational, and structural parameters, the system identifies complex fault conditions in real-time.
